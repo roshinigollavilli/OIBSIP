@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    background-color: #9aa5b1;
+    border-width: 0px;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+}
+
+#navitem1 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+#navitem1 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+#navitem2 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+#navitem3 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+#navitem4 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+#navitem5 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+.name {
+    color: #5bc0de;
+    font-family: "Roboto";
+}
+
+.heading {
+    color: white;
+    font-family: "Roboto";
+}
+
+.contact-button {
+    background-color: #5bc0de;
+    border-width: 0px;
+    border-radius: 6px;
+    color: white;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.home-text {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 22px;
+}
+
+.home-image {
+    width: 50%;
+}
+
+.nav-color {
+    background-color: #081b29;
+    width: 100vw;
+}
+
+.imgportfolio {
+    width: 75%;
+}
+
+.bgcontainer {
+    background-color: #001c32;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.footer-section-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+}
+
+.footer-container {
+    text-align: center;
+    color: #ffffff;
+    background-color: #001c32;
+    padding: 10px;
+}
+
+.fp1 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.iconf {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.bgcontainer {
+    background-color: #52606d;
+    background-size: cover;
+}
+
+.heading1 {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 26px;
+}
+
+.heading2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.img-icon {
+    width: 10%;
+}
+
+.card1 {
+    background-color: #323f4b;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.heading3 {
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.p1 {
+    color: #9aa5b1;
+    font-size: 22px;
+}
+
+
+.anker {
+    color: white;
+    font-family: "Roboto";
+}
+
+.heading1 {
+    color: #cced00;
+    font-family: "Roboto";
+
+
+}
+
+.heading2 {
+    color: white;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.heading3 {
+    color: white;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.heading4 {
+    color: black;
+}
+
+.p1 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+.p2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.about-me-section-heading {
+    color: #fe7d69;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.about-me-section-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.about-me-section-image {
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.skills-section-sub-heading {
+    color: #ffbf00;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.skills-card {
+    background-color: #9aa5b1;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.skills-card-image {
+    width: 30%;
+    height: 30%;
+}
+
+.skills-card-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.projects-heading {
+    color: #50c878;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #323f4b;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+.img1 {
+    width: 100%;
+}
+
+.card1 {
+    background-color: #ecbd44;
+}
+
+.img2 {
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.anker1 {
+    color: black;
+}
+
+.services-heading {
+    color: #dda0dd;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.card2 {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.service-card-heading {
+    color: #ff6347;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 25px;
+    padding-top: 8px;
+}
+
+.service-card-para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.contact-image {
+    padding-top: 8px;
+    width: 12%;
+    height: 25%;
+}
+
+.contact-heading {
+    color: #5bc0de;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.contact-sub-heading {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
