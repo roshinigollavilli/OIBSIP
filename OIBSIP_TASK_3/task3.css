@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://th.bing.com/th/id/R.aa8167033b814d258d171c5207d9abd9?rik=U%2bUleGbR80x%2fFg&riu=http%3a%2f%2ffc04.deviantart.net%2ffs70%2fi%2f2011%2f338%2f2%2fc%2ffogy_forest_by_valiunic-d4i4dh2.jpg&ehk=n1OfOfn7TGAhoa4A4gbzeVL9S9vO7rrS1TM5v7xG5Bs%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    height: 100vh;
+    font-family: "Roboto";
+}
+
+.card {
+    background-color: #fbfaf5;
+    border: 0px 12px;
+    width: 80%;
+    margin: auto;
+}
+
+.main-heading {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.convert-button {
+    color: white;
+    border-radius: 8px;
+}
+
+.error-message {
+    text-align: center;
+    padding-top: 15px;
+}
